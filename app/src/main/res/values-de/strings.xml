@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Verflixte 7</string>
+
+    <string name="darn_it">Verflixt</string>
+
+    <string name="increment">Hochzählen</string>
+
+</resources>

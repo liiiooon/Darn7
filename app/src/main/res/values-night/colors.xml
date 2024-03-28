@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="seed">#E84393</color>
+
+    <color name="primary">#FFB0CC</color>
+    <color name="primaryInverse">#8A4A64</color>
+    <color name="primaryFixed">#FFD9E4</color>
+    <color name="primaryFixedDim">#FFB0CC</color>
+    <color name="onPrimary">#541D35</color>
+    <color name="onPrimaryFixed">#390720</color>
+    <color name="onPrimaryFixedVariant">#6F334C</color>
+    <color name="primaryContainer">#6F334C</color>
+    <color name="onPrimaryContainer">#FFD9E4</color>
+
+    <color name="secondary">#E2BDC8</color>
+    <color name="secondaryFixed">#FFD9E4</color>
+    <color name="secondaryFixedDim">#E2BDC8</color>
+    <color name="onSecondary">#422932</color>
+    <color name="onSecondaryFixed">#2A151D</color>
+    <color name="onSecondaryFixedVariant">#5A3F49</color>
+    <color name="secondaryContainer">#5A3F49</color>
+    <color name="onSecondaryContainer">#FFD9E4</color>
+
+    <color name="tertiary">#F0BC96</color>
+    <color name="tertiaryFixed">#FFDCC4</color>
+    <color name="tertiaryFixedDim">#F0BC96</color>
+    <color name="onTertiary">#48290D</color>
+    <color name="onTertiaryFixed">#2F1400</color>
+    <color name="onTertiaryFixedVariant">#623F21</color>
+    <color name="tertiaryContainer">#623F21</color>
+    <color name="onTertiaryContainer">#FFDCC4</color>
+
+    <color name="error">#FFB4AB</color>
+    <color name="onError">#690005</color>
+    <color name="errorContainer">#93000A</color>
+    <color name="onErrorContainer">#FFDAD6</color>
+
+    <color name="background">#191114</color>
+    <color name="onBackground">#EEDFE2</color>
+
+    <color name="surface">#191114</color>
+    <color name="surfaceInverse">#EEDFE2</color>
+    <color name="surfaceDim">#191114</color>
+    <color name="surfaceBright">#403739</color>
+    <color name="onSurface">#EEDFE2</color>
+    <color name="onSurfaceInverse">#372E31</color>
+    <color name="surfaceVariant">#514347</color>
+    <color name="onSurfaceVariant">#D5C2C6</color>
+    <color name="surfaceContainerLowest">#130C0F</color>
+    <color name="surfaceContainerLow">#21191C</color>
+    <color name="surfaceContainer">#261D20</color>
+    <color name="surfaceContainerHigh">#31282A</color>
+    <color name="surfaceContainerHighest">#3C3235</color>
+
+    <color name="outline">#9D8C91</color>
+    <color name="outlineVariant">#514347</color>
+
+</resources>
